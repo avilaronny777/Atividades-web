@@ -1,0 +1,34 @@
+/* Estilização da Navegação */
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+nav a {
+    display: inline-block;
+    width: 20vw;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+/* Estilização das Caixas de Texto */
+section {
+    text-align: center;
+}
+
+section .box {
+    display: inline-block;
+    width: 45%;
+    margin: 2.5%;
+    background-color: #f4f4f4;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
